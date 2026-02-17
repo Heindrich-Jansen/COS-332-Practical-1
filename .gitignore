@@ -35,3 +35,6 @@ temp/
 *.jpg
 *.png
 *.mp4
+
+# Zone Identifiers
+*.Zone.Identifier
