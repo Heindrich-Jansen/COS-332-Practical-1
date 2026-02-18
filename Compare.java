@@ -30,9 +30,9 @@ public class Compare {
         System.out.println("<body>");
         System.out.println("    <h1>Click the larger number</h1>");
         System.out.println("    <p style=\"font-size: 4em; letter-spacing: 1.5em;\">");
-        System.out.println("        <a href=\"/right.htm\">" + larger + "</a>");
+        System.out.println("        <a href=\"/prac1/right.htm\">" + larger + "</a>");
         System.out.println("            ");
-        System.out.println("        <a href=\"/wrong.htm\">" + smaller + "</a>");
+        System.out.println("        <a href=\"/prac1/wrong.htm\">" + smaller + "</a>");
         System.out.println("    </p>");
         System.out.println("    <p><small>Refresh or click Try again for new numbers</small></p>");
         System.out.println("</body>");
