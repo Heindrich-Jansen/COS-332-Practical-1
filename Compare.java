@@ -14,8 +14,8 @@ public class Compare {
         int smaller = Math.min(a, b);
         
         // Output HTTP headers + blank line
-        System.out.println("Content-Type: text/html");
-        System.out.println();
+        //System.out.println("Content-Type: text/html");
+       // System.out.println();
         
         // HTML5 output
         System.out.println("<!DOCTYPE html>");
