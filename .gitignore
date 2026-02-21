@@ -29,7 +29,7 @@ temp/
 
 # Large files you usually don't want
 *.zip
-*.tar.gz
+#*.tar.gz
 *.7z
 *.pdf  # ← remove if you actually want PDFs
 *.jpg
